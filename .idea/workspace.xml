@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e082188-c9c7-4633-9b06-36ccdf661e85" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/01.变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Python基础语法/01.变量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/02.数据类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Python基础语法/02.数据类型.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/03.数据类型转换.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Python基础语法/03.数据类型转换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/04.运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Python基础语法/04.运算符.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/05.字符串定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Python基础语法/05.字符串定义.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/06.字符串拼接.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Python基础语法/06.字符串拼接.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/07.字符串格式化.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Python基础语法/07.字符串格式化.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Subway645&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Subway645/Python_Learning.git&quot;,
+    &quot;accountId&quot;: &quot;c079415d-4629-4634-8ab4-e71d28f6d4ff&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3GLNp5HPtEvIH3VObAi0Z3wKc3Q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.07.字符串格式化.executor": "Run",
+    "Python.08.字符串格式化的精度控制.executor": "Run",
+    "Python.09.字符串格式化2.executor": "Run",
+    "Python.10.对表达式进行格式化.executor": "Run",
+    "Python.11.数据输入.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1e082188-c9c7-4633-9b06-36ccdf661e85" name="更改" comment="" />
+      <created>1783747071292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783747071292</updated>
+      <workItem from="1783747072961" duration="1009000" />
+      <workItem from="1783775657950" duration="3096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$11_.coverage" NAME="11.数据输入 覆盖结果" MODIFIED="1783779110865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Python入门语法" />
+    <SUITE FILE_PATH="coverage/Python$09_2.coverage" NAME="09.字符串格式化2 覆盖结果" MODIFIED="1783777210996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Python入门语法" />
+    <SUITE FILE_PATH="coverage/Python$10_.coverage" NAME="10.对表达式进行格式化 覆盖结果" MODIFIED="1783778625416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Python入门语法" />
+    <SUITE FILE_PATH="coverage/Python$08_.coverage" NAME="08.字符串格式化的精度控制 覆盖结果" MODIFIED="1783776311773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Python入门语法" />
+    <SUITE FILE_PATH="coverage/Python$07_.coverage" NAME="07.字符串格式化 覆盖结果" MODIFIED="1783775908799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Python入门语法" />
+  </component>
+</project>
