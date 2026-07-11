@@ -4,7 +4,7 @@ s——表示将变量变成字符串放入占位的地方
 """
 num = 57
 price = 35.49
-message = "今天赛百味第%s号订单的价格是%s元" % (num, price) #如果是一个变量就不用括号
+message = "今天赛百味第%s号订单的价格是%f元" % (num, price) #如果是一个变量就不用括号
 print(message)
 
 
