@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42ecdae7-1f9b-4ca3-8328-5fbf40c47298" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Python基础语法/01.变量.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Python基础语法/02.数据类型.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Python基础语法/03.数据类型转换.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Python基础语法/04.运算符.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Python基础语法/05.字符串定义.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Python基础语法/06.字符串拼接.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Python基础语法/07.字符串格式化.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Python基础语法/08.字符串格式化的精度控制.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Python基础语法/09.字符串格式化2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Python基础语法/10.对表达式进行格式化.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Python基础语法/11.数据输入.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Subway645"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Subway645/Python_Learning.git",
+    "accountId": "c079415d-4629-4634-8ab4-e71d28f6d4ff"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GO5HZ10gRHE7UaN3B4NzaZdXle" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="42ecdae7-1f9b-4ca3-8328-5fbf40c47298" name="更改" comment="" />
+      <created>1783829690007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783829690007</updated>
+      <workItem from="1783829691522" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
