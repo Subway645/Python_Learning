@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e082188-c9c7-4633-9b06-36ccdf661e85" name="更改" comment="基础语法">
+    <list default="true" id="1e082188-c9c7-4633-9b06-36ccdf661e85" name="更改" comment="数据容器一">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Python基础语法/01.变量.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Python基础语法/02.数据类型.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Python基础语法/03.数据类型转换.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Python基础语法/04.运算符.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Python基础语法/05.字符串定义.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Python基础语法/06.字符串拼接.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Python基础语法/07.字符串格式化.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Python基础语法/08.字符串格式化的精度控制.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Python基础语法/09.字符串格式化2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Python基础语法/10.对表达式进行格式化.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Python基础语法/11.数据输入.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_数据容器/02.元组/01.定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_数据容器/02.元组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_数据容器/03.字符串/01.定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_数据容器/03.字符串.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,21 +45,38 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.01.九九乘法表.executor": "Run",
+    "Python.01.定义.executor": "Run",
     "Python.01.布尔类型.executor": "Run",
+    "Python.01.统计字符串长度.executor": "Run",
     "Python.01.语法.executor": "Run",
     "Python.02.if判断.executor": "Run",
     "Python.02.range语句.executor": "Run",
     "Python.02.while.executor": "Run",
+    "Python.02.下标索引.executor": "Run",
+    "Python.02.返回.executor": "Run",
+    "Python.03.list常用操作.executor": "Run",
     "Python.03.九九乘法表.executor": "Run",
+    "Python.03.字符串.executor": "Run",
     "Python.03.案例判断.executor": "Run",
     "Python.04.elif语句.executor": "Run",
+    "Python.04.列表的循环遍历.executor": "Run",
+    "Python.04.序列的切片.executor": "Run",
+    "Python.04.说明文档.executor": "Run",
+    "Python.05. 变量作用域,global关键字.executor": "Run",
+    "Python.05. 变量作用域.executor": "Run",
     "Python.05.猜数案例.executor": "Run",
+    "Python.05.集合.executor": "Run",
     "Python.06.判断嵌套.executor": "Run",
+    "Python.06.字典.executor": "Run",
+    "Python.06.综合案例.executor": "Run",
+    "Python.07.字典的常用操作.executor": "Run",
     "Python.07.字符串格式化.executor": "Run",
     "Python.08.字符串格式化的精度控制.executor": "Run",
+    "Python.08.通用操作.executor": "Run",
     "Python.09.字符串格式化2.executor": "Run",
     "Python.10.对表达式进行格式化.executor": "Run",
     "Python.11.数据输入.executor": "Run",
+    "Python.None类型.executor": "Run",
     "Python.elif语句.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -83,6 +91,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\练习\Python\04_数据容器" />
+      <recent name="D:\练习\Python\04_数据容器\列表" />
       <recent name="D:\练习\Python\02_基础语句\02.while" />
     </key>
   </component>
@@ -106,7 +116,10 @@
       <workItem from="1783829648111" duration="2000" />
       <workItem from="1783829657248" duration="19000" />
       <workItem from="1783829705528" duration="1921000" />
-      <workItem from="1783850489582" duration="641000" />
+      <workItem from="1783850489582" duration="1269000" />
+      <workItem from="1783920208183" duration="5003000" />
+      <workItem from="1783994008014" duration="8075000" />
+      <workItem from="1784102064105" duration="10087000" />
     </task>
     <task id="LOCAL-00001" summary="基础语法">
       <option name="closed" value="true" />
@@ -140,7 +153,31 @@
       <option name="project" value="LOCAL" />
       <updated>1783779317118</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="基础语句">
+      <option name="closed" value="true" />
+      <created>1783851306145</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1783851306145</updated>
+    </task>
+    <task id="LOCAL-00006" summary="函数">
+      <option name="closed" value="true" />
+      <created>1783924915062</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1783924915062</updated>
+    </task>
+    <task id="LOCAL-00007" summary="数据容器一">
+      <option name="closed" value="true" />
+      <created>1784002087148</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1784002087148</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,22 +196,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="基础语法" />
-    <option name="LAST_COMMIT_MESSAGE" value="基础语法" />
+    <MESSAGE value="基础语句" />
+    <MESSAGE value="函数" />
+    <MESSAGE value="数据容器一" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据容器一" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$11_.coverage" NAME="11.数据输入 覆盖结果" MODIFIED="1783779110865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Python入门语法" />
     <SUITE FILE_PATH="coverage/Python$02_if.coverage" NAME="02.if判断 覆盖结果" MODIFIED="1783827315030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_判断语句" />
-    <SUITE FILE_PATH="coverage/Python$06_.coverage" NAME="06.判断嵌套 覆盖结果" MODIFIED="1783828758170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_判断语句" />
-    <SUITE FILE_PATH="coverage/Python$05_.coverage" NAME="05.猜数案例 覆盖结果" MODIFIED="1783828272502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_判断语句" />
+    <SUITE FILE_PATH="coverage/Python$06_.coverage" NAME="06.字典 覆盖结果" MODIFIED="1784111550275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_数据容器" />
     <SUITE FILE_PATH="coverage/Python$10_.coverage" NAME="10.对表达式进行格式化 覆盖结果" MODIFIED="1783778625416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Python入门语法" />
-    <SUITE FILE_PATH="coverage/Python$08_.coverage" NAME="08.字符串格式化的精度控制 覆盖结果" MODIFIED="1783776311773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Python入门语法" />
+    <SUITE FILE_PATH="coverage/Python$05_.coverage" NAME="05.集合 覆盖结果" MODIFIED="1784109895978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_数据容器" />
+    <SUITE FILE_PATH="coverage/Python$05___global.coverage" NAME="05. 变量作用域,global关键字 覆盖结果" MODIFIED="1783923383562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_函数" />
+    <SUITE FILE_PATH="coverage/Python$08_.coverage" NAME="08.通用操作 覆盖结果" MODIFIED="1784113999232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_数据容器" />
     <SUITE FILE_PATH="coverage/Python$elif.coverage" NAME="elif语句 覆盖结果" MODIFIED="1783827937644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_判断语句" />
     <SUITE FILE_PATH="coverage/Python$02_while.coverage" NAME="02.while 覆盖结果" MODIFIED="1783830169558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_基础语句" />
     <SUITE FILE_PATH="coverage/Python$02_range.coverage" NAME="02.range语句 覆盖结果" MODIFIED="1783831537035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_基础语句/03.for" />
-    <SUITE FILE_PATH="coverage/Python$07_.coverage" NAME="07.字符串格式化 覆盖结果" MODIFIED="1783775908799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Python入门语法" />
-    <SUITE FILE_PATH="coverage/Python$01_.coverage" NAME="01.九九乘法表 覆盖结果" MODIFIED="1783851046031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_基础语句/02.while" />
+    <SUITE FILE_PATH="coverage/Python$None.coverage" NAME="None类型 覆盖结果" MODIFIED="1783922099616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_函数" />
+    <SUITE FILE_PATH="coverage/Python$05__.coverage" NAME="05. 变量作用域 覆盖结果" MODIFIED="1783922869519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_函数" />
+    <SUITE FILE_PATH="coverage/Python$07_.coverage" NAME="07.字典的常用操作 覆盖结果" MODIFIED="1784112287476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_数据容器" />
+    <SUITE FILE_PATH="coverage/Python$01_.coverage" NAME="01.定义 覆盖结果" MODIFIED="1784002020376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_数据容器/03.字符串" />
+    <SUITE FILE_PATH="coverage/Python$02_.coverage" NAME="02.下标索引 覆盖结果" MODIFIED="1783994758308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_列表" />
+    <SUITE FILE_PATH="coverage/Python$03_list.coverage" NAME="03.list常用操作 覆盖结果" MODIFIED="1783996501082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_列表" />
     <SUITE FILE_PATH="coverage/Python$09_2.coverage" NAME="09.字符串格式化2 覆盖结果" MODIFIED="1783777210996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_Python入门语法" />
-    <SUITE FILE_PATH="coverage/Python$03_.coverage" NAME="03.九九乘法表 覆盖结果" MODIFIED="1783851049856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_基础语句/03.for" />
+    <SUITE FILE_PATH="coverage/Python$03_.coverage" NAME="03.字符串 覆盖结果" MODIFIED="1784107386587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_数据容器" />
+    <SUITE FILE_PATH="coverage/Python$04_.coverage" NAME="04.序列的切片 覆盖结果" MODIFIED="1784108271558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_数据容器" />
     <SUITE FILE_PATH="coverage/Python$04_elif.coverage" NAME="04.elif语句 覆盖结果" MODIFIED="1783828310047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_判断语句" />
   </component>
 </project>
